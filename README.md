@@ -16,6 +16,7 @@ Power BI Desktop
 Excel
 
 Target Audience:
+
 🔶 Call centre managers and supervisors
 
 🔶 Business analysts and data scientists
